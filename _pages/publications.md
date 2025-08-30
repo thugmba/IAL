@@ -29,7 +29,7 @@ author_profile: true
 
 2022
 
-- :notebook: Kim, T. B., & Ho, C.-T. B. (2022). Reality of Virtual Reality Research between 1987 and 2021. International Journal of Information and Management Sciences, 33, 345~259, [https://doi.org/10.6186/IJIMS.202209\_33(3).0005](https://doi.org/10.6186/IJIMS.202209_33(3).0005). _Invited from conference_
+- 📓 Kim, T. B., & Ho, C.-T. B. (2022). Reality of Virtual Reality Research between 1987 and 2021. International Journal of Information and Management Sciences, 33, 345~259, [https://doi.org/10.6186/IJIMS.202209\_33(3).0005](https://doi.org/10.6186/IJIMS.202209_33(3).0005). _Invited from conference_
 
 - __*(THE BEST PAPER AWARD)*__ Kim, T. B., & Ho, C.-T. B. (2022, May 28). Reality of Virtual Reality Research between 1987 and 2021. The 2022 International Conference in Management Sciences and Decision Making, Taipei, Taiwan.
 
