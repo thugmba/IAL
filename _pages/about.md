@@ -18,6 +18,8 @@ Create knowledge by applying AI technology to innovation analytics
 
 __Projects__
 
+- Why did incumbent firms lose to a newcomer in the AI battle? by [國科會 National Science and Technology Council](https://www.nstc.gov.tw/) (2024/8~2025/10)
+
 - Formulating management principles on utilizing generative AI to
 sustain competitive advantage by [國科會 National Science and Technology Council](https://www.nstc.gov.tw/) (2023/7~2024/6)
 
