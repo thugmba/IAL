@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Innovation Lab"
+title                    : "Innovation Analytics Lab"
 title_separator          : "-"
 name                     : &name "Brian Kim"
 description              : &description "Inclusive Innovation"

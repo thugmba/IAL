@@ -9,21 +9,25 @@ __Principal investigator__
 
 - [Brian Kim](https://briankimstudio.github.io/)
 
-<!-- __Doctoral students__
+__Students__
 
-- Chacha -->
+_Current_
 
-__Master's students__
+_Former_
 
-- [Eva Huang](https://xexnvn.github.io/)
-- [Max You](https://sites.google.com/view/thu-gmba-max)
+- Chia-Yu Lu: Currently pursuing Master's degree at [National Taiwan University](https://www.ntu.edu.tw/english/)
+    - Best Conference Paper Award at 8th International Conference on Knowledge Innovation and Invention 2025, Fukuoka, Japan.
+- Hsiang Ting Su
+    - Best Conference Paper Award at 8th International Conference on Knowledge Innovation and Invention 2025, Fukuoka, Japan.
+- Eva Huang
+- Max You
 
 <!-- __Undergraduate students__
 
 - Miaomiao -->
 
-__Collaborators__
+__Collaboration oppotrunities__
 
-We are actively looking for collaborators who share the vision with us. You are more than welcome to contact the principal investigator regarding potential collaboration or projects.
+We welcome collaborators who share our research vision and committed to advancing knowledge in this field. You are more than welcome to contact principal investigator to discuss potential opportunities and projects.
 
 

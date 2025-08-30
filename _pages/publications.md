@@ -17,6 +17,18 @@ __Journal papers__
 
 __Conference papers__
 
+- __*(THE BEST CONFERENCE PAPER AWARD)*__ Kim, T. B., Su, H. T., & Lu, C.-Y. (2025, August 22). Building Tomorrow’s Innovations on Today’s Connected Data. 8th International Conference on Knowledge Innovation and Invention 2025, Fukuoka, Japan.
+
+- Kim, T. B., Huang, Y., Wang, X., Huang, C., & Ye, M. (2025, July 2). Organizational Type and Research Trajectories in Large Language Models. International Conference on Intelligent Media and Sustainable Technology Management. International Conference on Intelligent Media and Sustainable Technology Management, Osaka, Japan.
+
+- Kim, T. B. (2024, August 9–11). Big data analytics of AI research in education [Conference presentation]. 2024 International Conference on Big Data Engineering and Education(BDEE2024). 2024 International Conference on Big Data Engineering and Education(BDEE2024), Chaing Mai University, Thailand.
+
+- Huang, P., & Kim, B. (2024, May 24). Impact of AI-Driven Industrial Disruption on the Firm’s Financial Performance: The Case of Taiwan and Global. 2024 International Conference on Global Business. 2024 International Conference on Global Business, Chinese Culture University, Taiwan.
+
+- __*(THE BEST CONFERENCE PAPER AWARD)*__ Kim, T. B. (2025, April 25). Unraveling the Influence of Organizational Type on Research Trajectories: A Case Study of Large Language Models. IEEE 5th International Conference on Electronic Communications, Internet of Things and Big Data. IEEE 5th International Conference on Electronic Communications, Internet of Things and Big Data, Tamkang University, New Taipei, Taiwan.
+
+
+
 - Kim, T. B. (2023). How machine learning disrupts medical research. The 2023 International Conference in Management Sciences and Decision Making, Taipei, Taiwan.
 
 - Kim, T. B. (2023). Where is Generative AI Headed? 2023 International Conference on Information Management, Kaohsiung, Taiwan.
