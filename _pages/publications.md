@@ -17,15 +17,15 @@ __Journal papers__
 
 __Conference papers__
 
-- __*(THE BEST CONFERENCE PAPER AWARD)*__ Kim, T. B., Su, H. T., & Lu, C.-Y. (2025, August 22). Building Tomorrow’s Innovations on Today’s Connected Data. 8th International Conference on Knowledge Innovation and Invention 2025, Fukuoka, Japan.
+- __*(BEST CONFERENCE PAPER AWARD)*__ Kim, T. B., Su, H. T., & Lu, C.-Y. (2025, August 22). Building Tomorrow’s Innovations on Today’s Connected Data. 8th International Conference on Knowledge Innovation and Invention 2025, Fukuoka, Japan.
 
-- Kim, T. B., Huang, Y., Wang, X., Huang, C., & Ye, M. (2025, July 2). Organizational Type and Research Trajectories in Large Language Models. International Conference on Intelligent Media and Sustainable Technology Management. International Conference on Intelligent Media and Sustainable Technology Management, Osaka, Japan.
+- Kim, T. B., Huang, Y., Wang, X., Huang, C., & Ye, M. (2025, July 2). Organizational Type and Research Trajectories in Large Language Models. International Conference on Intelligent Media and Sustainable Technology Management, Osaka, Japan.
 
-- Kim, T. B. (2024, August 9–11). Big data analytics of AI research in education [Conference presentation]. 2024 International Conference on Big Data Engineering and Education(BDEE2024). 2024 International Conference on Big Data Engineering and Education(BDEE2024), Chaing Mai University, Thailand.
+- __*(BEST PRESENTATION AWARD)*__ Kim, T. B. (2024, August 9–11). Big data analytics of AI research in education [Conference presentation]. 2024 International Conference on Big Data Engineering and Education(BDEE2024). 2024 International Conference on Big Data Engineering and Education(BDEE2024), Chaing Mai University, Thailand.
 
 - Huang, P., & Kim, B. (2024, May 24). Impact of AI-Driven Industrial Disruption on the Firm’s Financial Performance: The Case of Taiwan and Global. 2024 International Conference on Global Business. 2024 International Conference on Global Business, Chinese Culture University, Taiwan.
 
-- __*(THE BEST CONFERENCE PAPER AWARD)*__ Kim, T. B. (2025, April 25). Unraveling the Influence of Organizational Type on Research Trajectories: A Case Study of Large Language Models. IEEE 5th International Conference on Electronic Communications, Internet of Things and Big Data. IEEE 5th International Conference on Electronic Communications, Internet of Things and Big Data, Tamkang University, New Taipei, Taiwan.
+- __*(BEST CONFERENCE PAPER AWARD)*__ Kim, T. B. (2025, April 25). Unraveling the Influence of Organizational Type on Research Trajectories: A Case Study of Large Language Models. IEEE 5th International Conference on Electronic Communications, Internet of Things and Big Data. IEEE 5th International Conference on Electronic Communications, Internet of Things and Big Data, Tamkang University, New Taipei, Taiwan.
 
 
 
@@ -46,15 +46,3 @@ __Conference papers__
 - Ravi Vadapalli, A. Sill, R. Dooley, M. Murray. P. Luo, T. Kim, M. Huang, K. Thyagaraja, and D. Chaffin (2007). TIGRE Environment for Grid Enabled/Suitable Applications, Demonstration session. The 8th IEEE/ACM International Conference on Grid Computing (Grid 2007), Austin, TX, USA.
 
 - Tae-sung Kim, Chuck Yoo (1997). Web Server Performance and Process Model. World conference WebNET97. Association for the Advancement of Computing in Education, Toronto, Canada.
-
-
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
