@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-📓 indicates journal
+📓 indicates a journal article.
 
 2025
 
