@@ -6,8 +6,6 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Members"
-    url: /members/
 
   - title: "Publications"
     url: /publications/
@@ -30,5 +28,8 @@ main:
   - title: "Research Guide"
     url: /guide/
 
-  - title: "Blog"
-    url: /year-archive/
+  - title: "Members"
+    url: /members/
+
+  # - title: "Blog"
+  #   url: /year-archive/
