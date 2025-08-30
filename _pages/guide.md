@@ -5,15 +5,15 @@ permalink: /guide/
 author_profile: true
 ---
 
-Conducting research is a complicated process that requires various tools to enhance the efficiency and quality of the work without unnecessarily sacrificing precious time in your life. This is a list of tools and tips that I had a first-hand experience with while I was in a doctoral program.
+Conducting research can be a complex process that requires various tools to enhance efficiency and quality of your work, all while preserving your valuable time. Below is a list of tools and tips based on my personal experience during my doctoral program.
 
 ## Principle
 
-Whenever you have to choose a tool from a pool of options, choose one that has multiple functionalities. Such tools allow us to learn once while being able to use them for a variety of tasks.
+When selecting a tool from a range of options, choose one that offers multiple functionalities. Such tools allow us to learn once while being able to use them for a variety of tasks.
 
 ## AMAS framework
 
-Research is centered around pursuing knowledge, encompassing a range of activities, from gathering information to creating original contributions. These tasks must be carried out promptly, as each stage of the research process operates within specific time constraints. Maximizing efficiency calls for leveraging technology to a significant extent. The AMAS(Acquiring, Managing, Authoring, and Sharing) is a straightforward framework designed to streamline your research workflow and enhance productivity.
+Research revolves around the pursuit of knowledge and involves various activities, from gathering information to making original contributions. Each of these tasks must be completed within specified time constratins, which makes prompt execution essential. To maximize efficiency, it is crucial to leverage technology effectively. The AMAS framework (Acquiring, Managing, Authoring, and Sharing) provides a straightforward approach to streamline your research workflow and enhance productivity.
 
 ### Acquiring knowledge
 
@@ -41,23 +41,23 @@ Data sources
 
 Reference management
 
-- [Zotero](https://www.zotero.org/): This is an essential tool to manage references while preparing research manuscripts. However, it is rather a helpful tool to create knowledge by effectively organizing knowledge. I managed to handle more than 2,000 references easily when preparing manuscripts and my doctoral dissertation. It can manage various types of data such as papers, websites, and URLs to YouTube videos. Thus, we can organize all related information in a single place. It is like a virtual folder keeping various data items together. If you are familiar with EndNote, then it is a piece of cake to learn how to use Zotero. For tutorials, search `zotero site:.edu` in Google.
+- [Zotero](https://www.zotero.org/): Zotero is an essential tool to manage references while preparing research manuscripts. It is particularly helpful tool for oranizing knowledge. I successfully managed over 2,000 references easily while working on my manuscripts and doctoral dissertation. Zotero can handle various types of data, including academic papers, websites, and even YouTube video URLs, allowing you to organize all related information in one place. It functions as a virtual folder that keeps different data items together. If you are already familiar with EndNote, learning how to use Zotero will be a piece of cake. For tutorials, simply search for `zotero site:.edu` on Google.
 
 ### Authoring knowledge
 
 Writing R/Python codes
 
-- [MS Visual studio code](https://code.visualstudio.com/): It allows us to author documents, Python source codes, and R source codes in a single editing enrvionment. Of course, this website was authored with [MS Visual studio code](https://code.visualstudio.com/).
+- [MS Visual Studio Code](https://code.visualstudio.com/): It allows us to author documents, Python, and R source code in a single editing environment. Of course, this website was authored with [MS Visual Studio Code](https://code.visualstudio.com/).
 
 Authoring high quality vector graphics
 
-- [Inkscape](https://inkscape.org/): This tool can manipulate vector graphic using simple user interface to generate high quality graphic arts for academic manuscript. Almost all academic journals require an author to submit figures in [vector graphic format](https://www.elsevier.com/journals/technological-forecasting-and-social-change/0040-1625/guide-for-authors) to maintain the quality of pictures in the paper.
+- [Inkscape](https://inkscape.org/): This tool can manipulate vector graphics using a simple user interface to generate high-quality graphic arts for an academic manuscript. Almost all academic journals require an author to submit figures in [vector graphic format](https://www.elsevier.com/journals/technological-forecasting-and-social-change/0040-1625/guide-for-authors) to maintain the quality of pictures in the paper.
 
 ### Sharing knowledge
 
 Research articles
 
-- Conference: Submit your preliminary result to conference to get peer review from other researchers. 
+- Conference: Submit your preliminary results to the conference for peer review by other researchers. 
   - Conference serach engine: [NSTC國科會活動訊息](https://www.nstc.gov.tw/folksonomy/list/e25373b0-6a33-4a48-ae74-85cae48f1b72?l=ch), [Elsevier Conference](https://www.elsevier.com/events/conferences/all), [WikiCFP](http://www.wikicfp.com/cfp/servlet/tool.search?q=management&year=t), [Conal Conference Alerts](https://conferencealerts.com/).
   - Recommended conferences
     - [PICMET(Portland International Center for Management of Engineering and Technology)](https://www.picmet.org/)
@@ -71,7 +71,7 @@ Research articles
     - [MCAC(Management Concept and Application Conference)](https://review.management.ntu.edu.tw/news.aspx?lang=en&pid=237)
     - ...
 
-- Journal: Publish research outcome to academic journal. 
+- Journal: Submit research findings to an academic journal for publication. 
   - Journal search engine: [Journal Citation Reports.](https://jcr.clarivate.com/)
   - Recommended journals
     - [Research Policy](https://www.sciencedirect.com/journal/research-policy)
@@ -96,5 +96,5 @@ Reusable R/Python codes
 
 ## Dissemination
 
--	**Message must be delivered!** The oral presentation is the key skills to deliver your idea to the people who need it. Here is a great example of how to touch people's heart without touching it physically.
+-	**Message must be delivered!** The oral presentation is the key skill to deliver your idea to the people who need it. Here is a great example of how to touch people's hearts without touching them physically.
 [Sinek, S. (2014, March). Simon Sinek: Why good leaders make you feel safe | TED Talk. TED.](https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe)
