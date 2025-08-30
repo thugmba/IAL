@@ -18,19 +18,31 @@ Create knowledge by applying AI technology to innovation analytics
 
 __Projects__
 
-- Why did incumbent firms lose to a newcomer in the AI battle? by [國科會 National Science and Technology Council](https://www.nstc.gov.tw/) (2024/8~2025/10)
+- Why did incumbent firms lose to a newcomer in the AI battle?
+  - Objective: This research is motivated by the challenge that leading firms struggle to respond promptly to generative AI market changes due to the increasing complexity of open innovation processes. Traditional competitor analysis methods are inadequate for the exponential speed of AI advancement and intricate innovation networks. The research aims to develop AI-powered tools that help firms accurately monitor competitors' technological trajectories and manage strategic uncertainties in the generative AI era.
+  ![NSTC_2023](/images/NSTC_2024.png)
+  - [國家科學及技術委員會 National Science and Technology Council](https://www.nstc.gov.tw/) (2024/8~2025/10)
 
-- Formulating management principles on utilizing generative AI to
-sustain competitive advantage by [國科會 National Science and Technology Council](https://www.nstc.gov.tw/) (2023/7~2024/6)
+- Formulating management principles on utilizing generative AI to sustain competitive advantage
+  - Objective: This research is motivated by the observation that while ChatGPT has demonstrated generative AI's disruptive potential, many other research developments and implications remain overlooked, and surprisingly, tech giants with exclusive access to big data and computation power have failed to maintain their expected dominance in this field. The study seeks to unlock this mystery through a comprehensive analysis combining academic research trends, patent evolution, and commercial platform evaluation to understand where generative AI technology is truly headed and why established leaders are struggling.
+  ![NSTC_2023](/images/NSTC_2023.png)
+  - [國家科學及技術委員會 National Science and Technology Council](https://www.nstc.gov.tw/) (2023/7~2024/6)
 
 <!-- What wo do -->
 
-__Information with technology management__
+__Data or Insight: What really drives decisions?__
 
-As the type of data and the ways to access it is constantly changing, we needs to constantly adapt to the new ways for analyzing it to create insights by uncovering hidden patterns through latest technologies. And these insights become a fundamental ingredient for academics and practitioners to make informed decisions in a rapidly changing and competitive global environment. Without properly created data, it is impossible to make a data-driven decision.
+As the nature of data and the ways to access it are constantly evolving, it is essential to adapt to the new approaches for analyzing data in order to create insights by uncovering hidden patterns through the latest technologies. Such insights constitutes a fundamental foundation for both academics and practitioners in making informed decisions within an increasingly dynamic and competitive global environment. Without properly prepared data, however, data-driven decision making becomes impossible.
 
-Without proper management, technology is just like a stack of books in the corner of a library. It would not help us to move forward. So does information. Value is created only when information is utilized by technologies and it is the value that helps us to move forward. The role of an information provider is already replaced by Google. However, Google can not replace the role of insight creator yet. 
+Without effective management, technology is merely like a stack of books left in the corner of a library. It does not help us move forward. So does information. Value is created only when information is effectively utilized through technologies, and it is this value that enables progress. While the role of an information provider has largely been replaced by Google, the role of insight creator remianes irreplcaeable.
 
 __Challenge in big data era__
 
-The amount of data helps us to make an informed decision. But, the quality of the decision degrades when the amount exceeds a certain threshold. At this point, the amount of information hurts us and we tend to make the wrong decision. This is a challenge we have to face in the era of big data. Therefore, it is crucial to quantify the threshold using scientific methods.
+While the the availability of data supports informed decision-making, the quality of such decisions can deteriorate once the volume of data exceeds a certain threshold. At that point, excessive information may hinder judgement and increase the likelihood of error. This presents a significant challenge in the era of big data. Consequently, it is crucial to identify and quantify this threshold through rigorous scientific methods.
+
+__Contact__
+
+Innovation Analytics Lab\
+Global Master of Business Administration\
+College of Management, Tunghai University\
+No. 1727, Sec. 4, Taiwan Boulevard, Xitun District, Taichung City 407224, Taiwan R.O.C.
