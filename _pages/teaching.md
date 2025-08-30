@@ -34,6 +34,11 @@ Intermediate/Advanced courses
 
 Most of undergraduate courses come with hands-on lab session where students can acquire practical experience by applying concepts and theorys to the real problem solving situation. The goal of hands-on lab is to get students prepared to deal with real tasks with confidence in workplace after completing these courses.
 
+__Workshops__
+
+- How to avoid plagiarism
+- How to manage knowledge in smart way
+
 <!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
