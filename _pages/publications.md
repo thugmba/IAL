@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-:notebook: indicates journal
+📓 indicates journal
 
 2025
 
@@ -35,7 +35,7 @@ author_profile: true
 
 2021
 
-- :notebook: Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. [https://doi.org/10.1016/j.tele.2021.101603](https://doi.org/10.1016/j.tele.2021.101603). __*(SSCI,IF=9.140)*__ 
+- 📓 Kim, T. B., & Ho, C.-T. B. (2021). Validating the moderating role of age in multi-perspective acceptance model of wearable healthcare technology. Telematics and Informatics, 61, 101603. [https://doi.org/10.1016/j.tele.2021.101603](https://doi.org/10.1016/j.tele.2021.101603). __*(SSCI,IF=9.140)*__ 
 
 - Kim, T. B., & Ho, C.-T. B. (2021). Machine Learning-based Knowledge Mapping for Bibliographic Big Data, 2021 National Computer Symposium, Taichung, Taiwan.
 
@@ -51,6 +51,6 @@ Prior to 2020
 
 - Tae-sung Kim, Chuck Yoo (1997). Web Server Performance and Process Model. World conference WebNET97. Association for the Advancement of Computing in Education, Toronto, Canada.
 
-- :notebook: Tae-sung Kim, Chuck Yoo (1996). Web Server Performance. ’96 Fall Conference, KISS, Vol.23, No. 2, pp 1209-1212, Yong-In, Korea.
+- Tae-sung Kim, Chuck Yoo (1996). Web Server Performance. ’96 Fall Conference, KISS, Vol.23, No. 2, pp 1209-1212, Yong-In, Korea.
 
-- :notebook: Kyung-shang Yu, Tae-sung Kim, Chuck Yoo (1996). Workstation-> Internet webserver. ’96 Spring Conference, KISS, Vol.23, No. 1, pp 561-564, Dae-Gu, Korea.
+- 📓 Kyung-shang Yu, Tae-sung Kim, Chuck Yoo (1996). Workstation-> Internet webserver. ’96 Spring Conference, KISS, Vol.23, No. 1, pp 561-564, Dae-Gu, Korea.
