@@ -10,11 +10,11 @@ redirect_from:
 
 __Mission__
 
-Toward better world through extensive sharing of knowledge
+We create actionable knowledge by applying AI technology to innovation analytics
 
 __Vision__
 
-Create knowledge by applying AI technology to innovation analytics
+To build a better world through extensive sharing of knowledge and insights
 
 __Projects__
 
